@@ -76,3 +76,9 @@ center{
 #root{
   width: 100% !important;
 }
+
+
+.garden-separator{
+  width: 18rem;
+  filter: drop-shadow(1px 1px rgb(255, 255, 255));
+}
