@@ -1,0 +1,15 @@
+.card{
+    border-radius: 0.4rem;
+    background-color: rgb(71, 65, 58);
+    padding: 1rem;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 20rem;
+    margin-bottom: 2rem;
+}
+
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
